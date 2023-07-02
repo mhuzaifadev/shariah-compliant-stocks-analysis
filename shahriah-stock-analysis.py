@@ -1,6 +1,7 @@
 import pandas as pd
 import requests
 
+
 # Define the list of Shariah-compliant stocks
 shariah_stocks = ["AAPL", "GOOGL", "MSFT", "AMZN"]
 
